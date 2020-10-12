@@ -1,1 +1,2 @@
 # leaflet-challenge
+Code that creates a map that displays locations of 2.5 magnitude and above earthquakes from that last 7 days. The size and color of the marks reflect the magnitude and depth of the earthquakes respectively. When the markers are clicked additional information about the earthquakes is displayed.
